@@ -1,0 +1,1 @@
+Cia pirmas Django projektas, pavadinimu autoservisas
